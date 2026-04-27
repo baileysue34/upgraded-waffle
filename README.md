@@ -28,7 +28,7 @@ There is a tradeoff between **accuracy and early intervention**—the most accur
 - Best model accuracy: 88%  
 - Early-warning model: ~73%  
 
-👉 [View the project here](https://github.com/YOUR-USERNAME/student-success-ml-project)
+👉 [View the project here](https://github.com/baileysue34/student-success-ml-project)
 
 ---
 
